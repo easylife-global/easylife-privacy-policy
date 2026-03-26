@@ -115,7 +115,7 @@ Changes will be posted on this page with an updated revision date.
 
 If you have any questions about this Privacy Policy, you may contact us at:
 
-Email: [support@easylifeglobal.app](mailto:admin@easylifeglobal.app)
+Email: [admin@easylifeglobal.app](mailto:admin@easylifeglobal.app)
 
 ---
 
